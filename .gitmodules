@@ -1,0 +1,3 @@
+[submodule "myAnn/Neural-Networks-Demystified"]
+	path = myAnn/Neural-Networks-Demystified
+	url = git@github.com:stephencwelch/Neural-Networks-Demystified.git
